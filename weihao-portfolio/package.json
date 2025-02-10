@@ -1,6 +1,6 @@
 {
   "name": "weihao-portfolio",
-  "homepage": "https://Whao06.github.io/Personal-Portfolio/",
+  "homepage": "https://whao06.github.io/Personal-Portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -19,7 +19,8 @@
     "lenis": "^1.1.20",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tailwind-scrollbar": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

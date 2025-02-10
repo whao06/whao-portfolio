@@ -9,7 +9,7 @@ const works = [
       imgSrc: '/images/project-1.png',
       title: 'Voice-Enabled Form Making Website',
       tags: ['API', 'Voice Recognition', 'Development'],
-      projectLink: 'https://github.com/Whao06/Voice-Enabled-Form-Making-Website'
+      projectLink: 'https://github.com/whao06/Voice-Enabled-Form-Making-Website'
     },
     {
       imgSrc: '/images/project-2.jpg',
@@ -21,7 +21,7 @@ const works = [
       imgSrc: '/images/project-3.png',
       title: 'Personal portfolio',
       tags: ['Web-design', 'React', 'Vite'],
-      projectLink: 'https://github.com/Whao06/Portfolio?tab=readme-ov-file'
+      projectLink: 'https://github.com/whao06/Portfolio?tab=readme-ov-file'
     },
   ];
 
