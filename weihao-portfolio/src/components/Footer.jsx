@@ -29,23 +29,11 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'http://www.github.com/Whao06'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
-    },
-    {
-      label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
-    },
-    {
-      label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
-    },
-    {
-      label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      href: 'https://www.linkedin.com/in/chan-wei-hao-0907a2302'
     }
   ];
 
@@ -60,7 +48,7 @@ const Footer = () => {
                             Let&apos;s work together today!
                         </h2>
 
-                        <ButtonPrimary href="mailto:weihao0660@gmail.com" label="Start project" icon="chevron_right" classes="reveal-up" />
+                        <ButtonPrimary href="mailto:weihao0660@gmail.com" label="Contact Me" icon="chevron_right" classes="reveal-up" />
 
                     </div>
 

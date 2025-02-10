@@ -6,9 +6,24 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: '/images/figma.svg',
-      label: 'Figma',
-      desc: 'Design tool'
+      imgSrc: '/images/python.svg',
+      label: 'Python',
+      desc: 'Programming, Scripting'
+    },
+    {
+      imgSrc: '/images/java.svg',
+      label: 'Java',
+      desc: 'Programming'
+    },
+    {
+      imgSrc: '/images/c++.svg',
+      label: 'C++',
+      desc: 'Programming'
+    },
+    {
+      imgSrc: '/images/c-sharp.svg',
+      label: 'C#',
+      desc: 'Programming'
     },
     {
       imgSrc: '/images/css3.svg',
@@ -26,16 +41,6 @@ const skillItem = [
       desc: 'Web Server'
     },
     {
-      imgSrc: '/images/expressjs.svg',
-      label: 'ExpressJS',
-      desc: 'Node Framework'
-    },
-    {
-      imgSrc: '/images/mongodb.svg',
-      label: 'MongoDB',
-      desc: 'Database'
-    },
-    {
       imgSrc: '/images/react.svg',
       label: 'React',
       desc: 'Framework'
@@ -45,18 +50,23 @@ const skillItem = [
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
+    {
+      imgSrc: '/images/unity.svg',
+      label: 'Unity',
+      desc: 'Game Development'
+    },
   ];
 
 const Skill = () => {
     return (
         <section className="section">
-            <div className="container">
+            <div className="container"> 
                 <h2 className="headline-2 reveal-up">
-                    Essential Tools I use
+                    Tools and Frameworks I use
                 </h2>
 
                 <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch]">
-                Discover the powerful tools and technologies I use to create exceptional, high-performing websites & applications.
+                Explore the tools and technologies I use to build outstanding, high-performace software and applications.
                 </p>
 
                 <div className="grid gap-3 grid-cols-[repeat(auto-fill,_minmax(250px,_1fr))]">
