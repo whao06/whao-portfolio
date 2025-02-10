@@ -6,19 +6,19 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/project-1.png',
+      imgSrc: './images/project-1.png',
       title: 'Voice-Enabled Form Making Website',
       tags: ['API', 'Voice Recognition', 'Development'],
       projectLink: 'https://github.com/whao06/Voice-Enabled-Form-Making-Website'
     },
     {
-      imgSrc: '/images/project-2.jpg',
+      imgSrc: './images/project-2.jpg',
       title: 'STEMscape: Virtual Expedition',
       tags: ['VR', 'GAME DEVELOPMENT'],
       projectLink: 'https://youtu.be/ZdOX6-u5CXM'
     },
     {
-      imgSrc: '/images/project-3.png',
+      imgSrc: './images/project-3.png',
       title: 'Personal portfolio',
       tags: ['Web-design', 'React', 'Vite'],
       projectLink: 'https://github.com/whao06/Portfolio?tab=readme-ov-file'

@@ -6,52 +6,52 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: '/images/python.svg',
+      imgSrc: './images/python.svg',
       label: 'Python',
       desc: 'Programming, Scripting'
     },
     {
-      imgSrc: '/images/java.svg',
+      imgSrc: './images/java.svg',
       label: 'Java',
       desc: 'Programming'
     },
     {
-      imgSrc: '/images/c++.svg',
+      imgSrc: './images/c++.svg',
       label: 'C++',
       desc: 'Programming'
     },
     {
-      imgSrc: '/images/c-sharp.svg',
+      imgSrc: './images/c-sharp.svg',
       label: 'C#',
       desc: 'Programming'
     },
     {
-      imgSrc: '/images/css3.svg',
+      imgSrc: './images/css3.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/javascript.svg',
+      imgSrc: './images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/nodejs.svg',
+      imgSrc: './images/nodejs.svg',
       label: 'NodeJS',
       desc: 'Web Server'
     },
     {
-      imgSrc: '/images/react.svg',
+      imgSrc: './images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-      imgSrc: '/images/tailwindcss.svg',
+      imgSrc: './images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/unity.svg',
+      imgSrc: './images/unity.svg',
       label: 'Unity',
       desc: 'Game Development'
     },

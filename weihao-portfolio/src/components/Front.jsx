@@ -29,7 +29,7 @@ const Front = () => {
 
                     <div className="flex items-center gap-3">
                         <ButtonPrimary
-                            href="https://drive.google.com/file/d/1JPjEc5q0YRWHCKmjqYchXKAGCqcesDYz/view?usp=sharing"
+                            href="https://drive.google.com/file/d/12cYZh-GWIa138tgcUQKe1VGZDrmoJCMx/view?usp=drive_link"
                             label="Download CV"
                             icon="download" 
                         />
@@ -40,7 +40,7 @@ const Front = () => {
 
                 <div className="hidden lg:block">
                     <figure className="w-full max-w-[400px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
-                        <img src="/images/personal-banner.png" width={656} height={800} alt="Chan Wei Hao" className="w-full" />
+                        <img src="./images/personal-banner.png" width={656} height={800} alt="Chan Wei Hao" className="w-full" />
                     </figure>
                 </div>
             </div>
