@@ -19,7 +19,7 @@ const works = [
     },
     {
       imgSrc: './images/project-3.png',
-      title: 'Personal portfolio',
+      title: 'Personal Portfolio',
       tags: ['Web-design', 'React', 'Vite'],
       projectLink: 'https://github.com/whao06/Portfolio?tab=readme-ov-file'
     },
