@@ -20,7 +20,7 @@ const About = () => {
 
                 <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
                     <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                    Hello! I&apos;m Wei Hao, a recent IT graduate with a passion for exploring various areas of technology. With solid foundation in IT, I&apos;m eager to apply my skills in role that algins with my aspirations. I'm excited to learn, grow, and contribute to innovative projects
+                    Hello! I&apos;m Wei Hao, a recent IT graduate with a passion for exploring various areas of technology. With solid foundation in IT, I&apos;m eager to apply my skills in role that aligns with my aspirations. I'm excited to learn, grow, and contribute to innovative projects
                     </p>
 
                     <div className="flex flex-wrap itemss-center gap-4 md:gap-7">
