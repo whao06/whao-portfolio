@@ -18,11 +18,17 @@ const works = [
       projectLink: 'https://youtu.be/ZdOX6-u5CXM'
     },
     {
-      imgSrc: './images/project-3.png',
+      imgSrc: './images/project.png',
       title: 'Personal Portfolio',
       tags: ['Web-design', 'React', 'Vite'],
       projectLink: 'https://github.com/whao06/whao-portfolio'
     },
+    {
+        imgSrc: './images/project.png',
+        title: 'Realtime Markdown Editor',
+        tags: ['Browser-Based', 'Express', 'Realtime'],
+        projectLink: 'https://github.com/whao06/RT-Markdown-Editor'
+      },
   ];
 
 const Work = () => {
