@@ -29,7 +29,7 @@ const Front = () => {
 
                     <div className="flex items-center gap-3">
                         <ButtonPrimary
-                            href="https://drive.google.com/file/d/12cYZh-GWIa138tgcUQKe1VGZDrmoJCMx/view?usp=drive_link"
+                            href="https://drive.google.com/file/d/1wgSG5-KRXz2bQWjgV7rpcz5NUlqDWDRe/view?usp=drive_link"
                             label="Download CV"
                             icon="download" 
                         />

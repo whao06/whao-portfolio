@@ -46,6 +46,11 @@ const skillItem = [
       desc: 'Framework'
     },
     {
+      imgSrc: './images/expressjs.svg',
+      label: 'ExpressJS',
+      desc: 'Framework'
+    },
+    {
       imgSrc: './images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
