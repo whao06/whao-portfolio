@@ -16,10 +16,10 @@ const Front = () => {
 
                         <div className="flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide">
                             <span className="relative w-2 h-2 rounded-full bg-emerald-500">
-                                <span className="absolute inset-0 rounded-full bg-emerald-500 animate-ping"></span>
+                                <span className="absolute inset-0 rounded-full bg-red-500 animate-ping"></span>
                             </span>
 
-                            Available for Work
+                            Not Available for Work
                         </div>
                     </div>
 
