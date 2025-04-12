@@ -70,6 +70,8 @@ const Contact = () => {
                         <textarea name="message" id="message" placeholder="Drop your message here ..." required className="text-field resize-y min-h-32 max-h-80 reveal-up"></textarea>
                     </div>
 
+                    <input type="hidden" name="_gotcha" className="hidden"  />
+
                     <button type="submit" className="btn btn-primary [&]:max-w-full w-full justify-center reveal-up">
                         Submit
                     </button>
